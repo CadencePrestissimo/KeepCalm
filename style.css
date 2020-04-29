@@ -54,7 +54,7 @@
   align-items: center;
   z-index : 10000;
 }
-.banner.haeder.logo
+.banner.header.logo
 {
   color:#fff;
   text-decoration: none;
@@ -63,7 +63,7 @@
   font-weight: 700;
   letter-spacing: 1px;
 }
-.banner header.toggle
+.banner .header.toggle
 {
 position:  relative;
 width:36px;
