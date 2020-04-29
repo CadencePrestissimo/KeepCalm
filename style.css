@@ -68,7 +68,7 @@
 position:  relative;
 width:36px;
 height:28px;
-background: url(1.png);
+background: url(1.jpg);
 background-size: cover;
 }
 .about
@@ -100,7 +100,7 @@ background-size: cover;
 }
 .about .imgBx
 {
-  background: url(3.png);
+  background: url(2.png);
   width: 50%;
   background-size: cover;
   background-position: center;
