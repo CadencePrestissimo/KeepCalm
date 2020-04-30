@@ -54,7 +54,7 @@
   align-items: center;
   z-index : 10000;
 }
-.banner.header.logo
+.banner header.logo
 {
   color:#fff;
   text-decoration: none;
@@ -63,12 +63,12 @@
   font-weight: 700;
   letter-spacing: 1px;
 }
-.banner .header.toggle
+.banner header.toggle
 {
 position:  relative;
 width:36px;
 height:28px;
-background: url(1.jpg);
+background: url(toggle.png);
 background-size: cover;
 }
 .about
