@@ -70,6 +70,7 @@ width:36px;
 height:28px;
 background: url(toggle.png);
 background-size: cover;
+cursor: pointer;
 }
 .about
 {
